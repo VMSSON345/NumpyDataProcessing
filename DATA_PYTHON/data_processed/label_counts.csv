@@ -1,0 +1,792 @@
+label,count
+['unlabeled'],3490
+['00 - Bug'],924
+"['00 - Bug', 'component: numpy._core']",841
+"['00 - Bug', 'component: Other']",510
+['04 - Documentation'],481
+['33 - Question'],238
+['32 - Installation'],237
+"['00 - Bug', 'component: numpy.lib']",192
+['57 - Close?'],144
+"['00 - Bug', 'component: numpy.distutils']",130
+"['00 - Bug', 'component: numpy.ma']",126
+"['01 - Enhancement', 'component: numpy._core']",124
+"['00 - Bug', 'component: numpy.f2py']",119
+['53 - Invalid'],107
+"['01 - Enhancement', 'component: Other']",90
+"['00 - Bug', 'Priority: high', 'component: numpy._core']",83
+"['00 - Bug', 'component: numpy.random']",77
+['01 - Enhancement'],71
+"['00 - Bug', 'component: documentation']",63
+['50 - Duplicate'],59
+['Static typing'],57
+['component: build'],55
+['06 - Regression'],54
+"['00 - Bug', 'component: numpy.linalg']",53
+"['00 - Bug', '57 - Close?']",53
+"['01 - Enhancement', 'component: numpy.lib']",52
+"['00 - Bug', 'Static typing']",52
+['component: documentation'],45
+['17 - Task'],40
+"['00 - Bug', '06 - Regression']",39
+['component: numpy.f2py'],37
+['component: numpy.linalg'],35
+"['00 - Bug', 'component: numpy.testing']",35
+"['00 - Bug', 'component: build']",29
+"['00 - Bug', 'Priority: high', 'component: Other']",28
+['component: CI'],27
+"['04 - Documentation', 'sprintable']",27
+"['01 - Enhancement', 'component: numpy.random']",27
+['component: numpy.distutils'],26
+['component: numpy.random'],25
+"['57 - Close?', '33 - Question']",24
+['05 - Testing'],24
+"['57 - Close?', '32 - Installation']",24
+"['00 - Bug', 'component: SIMD']",23
+['component: numpy._core'],22
+['03 - Maintenance'],22
+"['00 - Bug', 'component: numpy.dtype']",22
+['29 - Intel/Anaconda'],21
+['component: numpy.lib'],19
+"['33 - Question', '32 - Installation']",19
+"['00 - Bug', 'component: numpy.ufunc']",18
+"['04 - Documentation', 'component: numpy._core']",18
+"['04 - Documentation', 'component: numpy.random']",17
+"['04 - Documentation', 'component: documentation']",17
+"['01 - Enhancement', 'component: numpy.testing']",17
+"['01 - Enhancement', 'component: numpy.f2py']",17
+"['00 - Bug', 'component: numpy.fft']",16
+"['06 - Regression', 'component: numpy._core']",16
+"['17 - Task', 'component: Other']",16
+"['01 - Enhancement', 'component: numpy.linalg']",16
+"['00 - Bug', 'sprintable']",16
+['component: numpy.ma'],16
+"['01 - Enhancement', 'component: numpy.distutils']",15
+"['00 - Bug', '50 - Duplicate']",15
+['15 - Discussion'],15
+"['04 - Documentation', '57 - Close?']",14
+"['04 - Documentation', 'component: numpy.f2py']",14
+"['01 - Enhancement', 'Static typing']",14
+"['00 - Bug', '04 - Documentation']",13
+"['04 - Documentation', '33 - Question']",12
+"['00 - Bug', 'Priority: high', 'component: numpy.ma']",12
+['14 - Release'],12
+"['00 - Bug', 'Priority: high']",12
+"['00 - Bug', '06 - Regression', 'component: numpy._core']",12
+"['00 - Bug', 'component: numpy._core', 'Patch']",12
+"['17 - Task', 'component: documentation']",12
+['component: distribution'],12
+"['00 - Bug', 'Priority: high', 'component: numpy.distutils']",12
+['component: numpy.datetime64'],11
+"['00 - Bug', 'Priority: high', 'component: numpy.lib']",11
+"['00 - Bug', 'component: numpy.datetime64']",11
+['07 - Deprecation'],11
+"['00 - Bug', '32 - Installation']",10
+"['00 - Bug', '05 - Testing']",10
+"['00 - Bug', 'component: numpy._core', 'component: numpy.dtype']",10
+"['04 - Documentation', 'component: numpy.lib']",10
+"['17 - Task', 'component: numpy._core']",10
+"['33 - Question', 'Static typing']",10
+['23 - Wish List'],9
+"['01 - Enhancement', 'component: documentation']",9
+"['06 - Regression', 'component: numpy.lib']",9
+"['00 - Bug', 'component: numpy.distutils', '57 - Close?']",9
+"['component: numpy.distutils', 'component: numpy.f2py']",8
+['component: numpy.polynomial'],8
+"['15 - Discussion', '57 - Close?']",8
+['54 - Needs decision'],8
+"['04 - Documentation', 'component: numpy.linalg']",8
+"['00 - Bug', 'component: npy_math']",7
+"['04 - Documentation', '57 - Close?', '33 - Question']",7
+"['00 - Bug', 'component: numpy.matrixlib']",7
+"['53 - Invalid', '32 - Installation']",7
+"['29 - Intel/Anaconda', '32 - Installation']",7
+"['00 - Bug', 'component: numpy.linalg', 'Priority: high']",7
+"['01 - Enhancement', 'component: build']",7
+"['01 - Enhancement', 'component: numpy.ma']",7
+"['17 - Task', '04 - Documentation']",6
+['component: __array_function__'],6
+"['00 - Bug', '04 - Documentation', 'component: numpy._core']",6
+"['00 - Bug', '06 - Regression', 'component: numpy.f2py']",6
+"['00 - Bug', '06 - Regression', 'component: numpy.lib']",6
+['24 - PyPy'],6
+"['05 - Testing', '04 - Documentation']",6
+"['04 - Documentation', 'component: numpy.ma']",6
+"['17 - Task', '03 - Maintenance']",6
+"['00 - Bug', '29 - Intel/Anaconda']",6
+"['00 - Bug', 'component: numpy._core', '54 - Needs decision']",6
+['55 - Needs work'],6
+"['54 - Needs decision', 'Proposal']",6
+"['00 - Bug', 'component: numpy.array_api']",6
+"['00 - Bug', '06 - Regression', 'component: numpy.random']",6
+"['15 - Discussion', '04 - Documentation']",6
+"['component: numpy.distutils', 'component: build']",6
+"['01 - Enhancement', '57 - Close?']",6
+"['04 - Documentation', 'Static typing']",6
+"['00 - Bug', 'component: numpy.polynomial']",6
+['component: numpy.fft'],6
+"['component: numpy._core', 'Proposal']",6
+['16 - Development'],6
+"['00 - Bug', '53 - Invalid']",5
+"['00 - Bug', 'Priority: high', 'component: numpy.f2py']",5
+"['00 - Bug', 'component: numpy.distutils', 'component: build']",5
+['component: numpy.array_api'],5
+"['00 - Bug', 'C++']",5
+"['17 - Task', '14 - Release']",5
+"['component: numpy.linalg', '57 - Close?']",5
+"['04 - Documentation', 'component: numpy.polynomial']",5
+"['00 - Bug', 'component: numpy._core', '50 - Duplicate']",5
+"['component: numpy.lib', 'component: documentation']",5
+"['00 - Bug', 'Numpy 2.0 API Changes']",5
+"['00 - Bug', 'Meson']",5
+"['23 - Wish List', 'component: numpy._core']",5
+"['57 - Close?', 'component: build']",5
+['component: numpy.ufunc'],5
+"['06 - Regression', 'component: numpy.ma']",5
+"['06 - Regression', 'component: numpy.f2py']",5
+"['component: numpy.f2py', '03 - Maintenance']",5
+"['01 - Enhancement', 'component: numpy.fft']",5
+"['23 - Wish List', 'component: numpy.lib']",4
+"['00 - Bug', 'component: numpy._core', 'defunct — difficulty: Intermediate']",4
+"['component: numpy._core', '54 - Needs decision']",4
+"['00 - Bug', 'component: numpy.strings']",4
+['62 - Python API'],4
+"['06 - Regression', 'component: build']",4
+"['01 - Enhancement', '23 - Wish List']",4
+"['00 - Bug', 'component: numpy._core', '57 - Close?']",4
+['Priority: high'],4
+"['04 - Documentation', '03 - Maintenance']",4
+"['00 - Bug', '07 - Deprecation']",4
+['triaged'],4
+['component: numpy.testing'],4
+"['00 - Bug', 'component: numpy.einsum']",4
+"['component: numpy.f2py', '57 - Close?']",4
+"['component: numpy._core', '57 - Close?']",4
+"['01 - Enhancement', '04 - Documentation']",4
+['component: numpy.dtype'],4
+"['component: numpy.distutils', '03 - Maintenance']",4
+['Numpy 2.0 API Changes'],4
+['31 - Third-party binaries'],4
+"['01 - Enhancement', 'component: numpy.dtype']",4
+"['01 - Enhancement', '23 - Wish List', '57 - Close?']",4
+"['component: numpy.random', '33 - Question']",4
+"['17 - Task', 'Static typing']",4
+"['17 - Task', 'component: numpy.testing']",4
+"['component: build', '32 - Installation']",4
+"['17 - Task', 'component: numpy.f2py']",3
+"['00 - Bug', 'component: Other', 'Patch']",3
+"['00 - Bug', '06 - Regression', '57 - Close?']",3
+"['00 - Bug', '06 - Regression', 'component: numpy.distutils']",3
+"['00 - Bug', 'Embedded']",3
+"['00 - Bug', 'Priority: high', 'component: numpy.random']",3
+"['00 - Bug', '05 - Testing', 'component: numpy._core']",3
+"['00 - Bug', 'component: distribution']",3
+"['01 - Enhancement', 'component: CI']",3
+"['00 - Bug', 'triaged']",3
+['Proposal'],3
+"['component: documentation', '03 - Maintenance']",3
+"['06 - Regression', '54 - Needs decision']",3
+"['04 - Documentation', '07 - Deprecation']",3
+['component: Other'],3
+"['17 - Task', 'component: numpy.distutils']",3
+"['04 - Documentation', 'component: build']",3
+"['00 - Bug', 'component: numpy._core', 'component: numpy.ufunc']",3
+"['31 - Third-party binaries', '33 - Question']",3
+"['component: numpy.random', '53 - Invalid']",3
+"['05 - Testing', 'Static typing']",3
+"['00 - Bug', 'component: SIMD', '36 - Build']",3
+"['00 - Bug', 'component: numpy.linalg', '57 - Close?']",3
+"['04 - Documentation', '53 - Invalid']",3
+"['17 - Task', 'Priority: high', 'component: numpy._core']",3
+"['00 - Bug', '33 - Question']",3
+"['00 - Bug', '50 - Duplicate', 'Static typing']",3
+['sprintable - C'],3
+"['04 - Documentation', 'component: numpy.distutils']",3
+"['15 - Discussion', 'component: numpy._core']",3
+"['component: build', '53 - Invalid']",3
+"['component: numpy._core', '03 - Maintenance']",3
+"['00 - Bug', '06 - Regression', 'component: SIMD']",3
+"['57 - Close?', '50 - Duplicate']",3
+"['57 - Close?', 'Static typing']",3
+"['00 - Bug', '03 - Maintenance']",3
+"['00 - Bug', '06 - Regression', 'Priority: high']",3
+"['00 - Bug', 'component: numpy.distutils', 'component: numpy.f2py']",3
+"['00 - Bug', 'component: documentation', 'component: numpy.random']",3
+"['00 - Bug', '39 - free-threading']",2
+"['00 - Bug', 'component: Other', '57 - Close?']",2
+"['01 - Enhancement', 'component: numpy.random', 'Patch']",2
+"['01 - Enhancement', 'component: numpy.lib', 'Patch']",2
+"['00 - Bug', '57 - Close?', '32 - Installation']",2
+"['00 - Bug', 'component: numpy.distutils', 'component: SIMD']",2
+"['04 - Documentation', 'component: numpy.ma', 'sprintable']",2
+"['00 - Bug', 'component: CI']",2
+"['00 - Bug', 'component: numpy.ma', 'Patch']",2
+['component: numpy.matrixlib'],2
+"['00 - Bug', '57 - Close?', 'component: build']",2
+"['01 - Enhancement', 'component: Other', 'Patch']",2
+['sprintable'],2
+"['00 - Bug', 'component: build', 'component: distribution']",2
+"['00 - Bug', 'component: numpy.ma', 'sprintable']",2
+"['57 - Close?', 'component: distribution']",2
+"['01 - Enhancement', '05 - Testing', 'defunct — difficulty: Intermediate']",2
+"['16 - Development', 'component: build']",2
+"['06 - Regression', 'component: numpy.random']",2
+"['00 - Bug', '32 - Installation', 'component: SIMD']",2
+"['04 - Documentation', 'component: NEP']",2
+"['50 - Duplicate', 'Static typing']",2
+"['component: numpy.polynomial', '03 - Maintenance']",2
+"['04 - Documentation', 'component: CI']",2
+"['00 - Bug', 'component: __array_function__']",2
+"['04 - Documentation', 'component: numpy.ufunc']",2
+"['07 - Deprecation', 'component: numpy.ufunc']",2
+"['component: Other', '51 - In progress']",2
+['component: SIMD'],2
+"['00 - Bug', 'component: numpy.lib', '07 - Deprecation']",2
+"['04 - Documentation', 'component: documentation', '57 - Close?']",2
+"['component: numpy.ma', '50 - Duplicate']",2
+"['01 - Enhancement', 'Priority: high', 'component: numpy._core']",2
+"['01 - Enhancement', 'component: numpy.linalg', 'Patch']",2
+"['component: numpy._core', 'component: documentation']",2
+"['component: numpy.lib', 'Proposal']",2
+"['component: numpy._core', '53 - Invalid']",2
+"['00 - Bug', 'component: numpy._core', 'Priority: low']",2
+"['00 - Bug', 'component: numpy.f2py', '57 - Close?']",2
+"['00 - Bug', 'component: numpy._core', 'Embedded']",2
+"['57 - Close?', '29 - Intel/Anaconda']",2
+"['component: documentation', 'component: numpy.random']",2
+"['15 - Discussion', '03 - Maintenance']",2
+"['component: numpy.linalg', '03 - Maintenance']",2
+"['00 - Bug', '24 - PyPy']",2
+"['04 - Documentation', 'component: numpy.random', 'sprintable']",2
+"['00 - Bug', '36 - Build']",2
+"['05 - Testing', '03 - Maintenance']",2
+"['01 - Enhancement', 'component: numpy.lib', '54 - Needs decision']",2
+"['54 - Needs decision', '57 - Close?']",2
+"['component: documentation', '57 - Close?']",2
+"['01 - Enhancement', 'Numpy 2.0 API Changes']",2
+"['01 - Enhancement', 'component: numpy._core', 'defunct — difficulty: Intermediate']",2
+"['00 - Bug', 'component: numpy.ufunc', '29 - Intel/Anaconda']",2
+"['01 - Enhancement', '05 - Testing']",2
+"['Priority: high', 'component: numpy._core']",2
+['component: benchmarks'],2
+"['15 - Discussion', 'component: numpy._core', '07 - Deprecation']",2
+"['57 - Close?', 'Embedded']",2
+"['31 - Third-party binaries', '32 - Installation']",2
+"['15 - Discussion', 'component: documentation']",2
+"['component: build', 'Meson']",2
+"['component: numpy.distutils', '50 - Duplicate']",2
+"['06 - Regression', 'component: numpy.testing']",2
+"['57 - Close?', '31 - Third-party binaries']",2
+"['01 - Enhancement', '54 - Needs decision']",2
+"['04 - Documentation', '63 - C API']",2
+"['23 - Wish List', '57 - Close?']",2
+"['00 - Bug', '14 - Release']",2
+"['62 - Python API', 'Numpy 2.0 API Changes']",2
+"['component: documentation', 'component: build']",2
+"['57 - Close?', '53 - Invalid']",2
+['Project'],2
+['Meson'],2
+"['32 - Installation', 'Static typing']",2
+"['06 - Regression', 'triaged']",2
+"['component: numpy.lib', '54 - Needs decision']",2
+"['03 - Maintenance', 'component: build']",2
+"['05 - Testing', 'component: build']",2
+"['04 - Documentation', 'component: numpy.testing']",2
+"['component: numpy.testing', '57 - Close?']",2
+"['component: numpy._core', '33 - Question']",2
+"['01 - Enhancement', '62 - Python API']",2
+"['00 - Bug', '57 - Close?', '50 - Duplicate', 'component: numpy.dtype']",2
+"['03 - Maintenance', 'Static typing']",2
+"['00 - Bug', '06 - Regression', 'Priority: high', 'component: numpy.random']",2
+"['04 - Documentation', 'component: numpy.datetime64']",2
+"['24 - PyPy', 'component: CI']",2
+"['01 - Enhancement', '23 - Wish List', 'component: numpy.dtype']",2
+"['component: numpy.lib', '33 - Question']",2
+"['53 - Invalid', '33 - Question']",2
+"['50 - Duplicate', 'Embedded', '32 - Installation']",2
+"['05 - Testing', 'component: CI']",2
+"['component: numpy._core', '50 - Duplicate']",2
+"['00 - Bug', 'component: numpy.distutils', '50 - Duplicate']",2
+"['01 - Enhancement', 'component: numpy.ufunc']",2
+"['01 - Enhancement', 'component: numpy.random', '50 - Duplicate']",2
+"['57 - Close?', 'component: numpy.dtype']",2
+"['03 - Maintenance', 'sprintable']",2
+"['00 - Bug', 'component: numpy.distutils', 'component: SIMD', '36 - Build']",2
+"['00 - Bug', 'component: SIMD', 'HWY']",2
+"['01 - Enhancement', 'Priority: high', 'component: numpy.f2py']",2
+"['17 - Task', 'component: numpy.linalg']",2
+"['00 - Bug', 'component: numpy._core', '39 - free-threading']",2
+"['17 - Task', '54 - Needs decision']",1
+"['06 - Regression', 'component: numpy._core', 'component: Other']",1
+"['17 - Task', 'component: numpy.random']",1
+"['00 - Bug', '16 - Development', '06 - Regression']",1
+"['04 - Documentation', 'component: numpy._core', 'component: numpy.dtype']",1
+"['17 - Task', 'Priority: high', 'component: Other']",1
+"['00 - Bug', 'Priority: high', 'component: documentation']",1
+"['00 - Bug', 'component: numpy._core', '59 - Needs tests']",1
+"['01 - Enhancement', '57 - Close?', 'component: numpy.dtype']",1
+"['17 - Task', 'Priority: high', 'component: documentation']",1
+"['component: numpy.linalg', 'Proposal', '64 - Good Idea']",1
+"['component: documentation', '54 - Needs decision']",1
+"['01 - Enhancement', 'component: numpy._core', 'component: documentation', '54 - Needs decision']",1
+"['57 - Close?', '33 - Question', 'Static typing']",1
+"['Embedded', '33 - Question']",1
+"['component: numpy._core', 'Project']",1
+"['01 - Enhancement', 'component: SIMD']",1
+"['00 - Bug', 'component: numpy.matrixlib', '54 - Needs decision']",1
+"['23 - Wish List', 'Proposal', 'component: numpy.dtype']",1
+"['54 - Needs decision', 'Proposal', 'component: numpy.dtype']",1
+"['17 - Task', 'Priority: high', '07 - Deprecation']",1
+"['01 - Enhancement', 'component: documentation', '57 - Close?']",1
+"['00 - Bug', 'Priority: high', 'component: numpy.testing']",1
+"['00 - Bug', 'component: documentation', 'component: numpy.polynomial']",1
+"['component: numpy._core', '54 - Needs decision', 'Proposal']",1
+"['component: numpy.linalg', 'Proposal']",1
+"['33 - Question', 'Static typing', 'component: numpy.array_api']",1
+"['06 - Regression', 'component: SIMD']",1
+"['01 - Enhancement', '50 - Duplicate']",1
+"['component: numpy.ma', 'component: numpy.datetime64']",1
+"['component: numpy._core', '07 - Deprecation']",1
+"['00 - Bug', 'component: numpy._core', 'component: numpy.ufunc', 'sprintable']",1
+"['00 - Bug', '50 - Duplicate', 'component: SIMD']",1
+"['00 - Bug', 'component: numpy.ufunc', '26 - Compiler', 'sprintable']",1
+"['33 - Question', 'component: SIMD']",1
+"['57 - Close?', 'triage review']",1
+"['component: numpy.fft', 'Numpy 2.0 API Changes']",1
+"['component: numpy.lib', 'component: numpy.polynomial']",1
+"['01 - Enhancement', 'Project']",1
+"['23 - Wish List', '05 - Testing', 'Static typing']",1
+"['04 - Documentation', '36 - Build']",1
+"['04 - Documentation', '06 - Regression']",1
+"['00 - Bug', 'component: numpy.ufunc', 'component: SIMD']",1
+"['component: documentation', 'component: numpy.random', 'sprintable']",1
+"['04 - Documentation', 'component: numpy.matrixlib', '07 - Deprecation']",1
+"['50 - Duplicate', '33 - Question']",1
+"['component: numpy.ma', 'sprintable']",1
+"['01 - Enhancement', '04 - Documentation', 'Priority: low']",1
+"['01 - Enhancement', '04 - Documentation', 'component: numpy.ufunc']",1
+"['01 - Enhancement', '23 - Wish List', 'component: numpy.distutils']",1
+"['01 - Enhancement', '23 - Wish List', '05 - Testing', 'Static typing']",1
+"['component: numpy._core', 'component: numpy.dtype']",1
+"['01 - Enhancement', '05 - Testing', 'Static typing']",1
+['component: swig'],1
+"['00 - Bug', '05 - Testing', 'component: CI']",1
+"['57 - Close?', '29 - Intel/Anaconda', '33 - Question']",1
+"['57 - Close?', 'component: numpy.dtype', '33 - Question']",1
+"['component: CI', '33 - Question']",1
+"['01 - Enhancement', '62 - Python API', 'Numpy 2.0 API Changes']",1
+"['01 - Enhancement', 'component: distribution']",1
+"['32 - Installation', '38 - Cross compilation']",1
+"['57 - Close?', '26 - Compiler', '36 - Build']",1
+"['57 - Close?', '28 - Benchmark', '33 - Question']",1
+"['00 - Bug', 'component: npy_math', 'component: build', '32 - Installation']",1
+"['05 - Testing', 'component: SIMD', 'Static typing', '36 - Build']",1
+"['component: build', 'component: SIMD']",1
+"['01 - Enhancement', 'component: numpy.lib', 'component: numpy.datetime64']",1
+"['26 - Compiler', '36 - Build']",1
+"['component: numpy.random', '03 - Maintenance']",1
+"['00 - Bug', '05 - Testing', '04 - Documentation']",1
+"['23 - Wish List', 'Static typing']",1
+"['component: documentation', '33 - Question']",1
+"['component: numpy.distutils', '32 - Installation', 'component: SIMD']",1
+"['01 - Enhancement', 'component: build', 'component: SIMD']",1
+"['03 - Maintenance', '30 - API']",1
+"['05 - Testing', '57 - Close?', 'Static typing']",1
+"['01 - Enhancement', '28 - Benchmark']",1
+"['57 - Close?', '24 - PyPy', '32 - Installation']",1
+"['05 - Testing', 'component: numpy.linalg', '24 - PyPy']",1
+"['01 - Enhancement', 'component: numpy.random', 'component: build']",1
+"['component: numpy.lib', '03 - Maintenance', '30 - API']",1
+"['04 - Documentation', 'component: numpy.lib', 'component: numpy.dtype']",1
+"['15 - Discussion', 'Static typing']",1
+"['15 - Discussion', '54 - Needs decision', '62 - Python API', 'Static typing']",1
+"['00 - Bug', 'component: swig']",1
+['38 - Cross compilation'],1
+"['04 - Documentation', '32 - Installation']",1
+"['00 - Bug', 'component: numpy.ctypes']",1
+"['50 - Duplicate', '32 - Installation']",1
+"['36 - Build', 'Meson']",1
+"['component: numpy.random', '57 - Close?']",1
+"['04 - Documentation', '57 - Close?', 'Priority: low', 'Static typing']",1
+"['component: numpy.f2py', '36 - Build']",1
+"['15 - Discussion', 'component: numpy._core', 'component: numpy.dtype', '30 - API']",1
+"['00 - Bug', 'component: numpy.random', '26 - Compiler']",1
+"['00 - Bug', 'Project']",1
+['Embedded'],1
+"['01 - Enhancement', 'component: build', 'Meson']",1
+"['32 - Installation', '36 - Build', 'Meson']",1
+"['00 - Bug', '57 - Close?', 'Static typing']",1
+"['04 - Documentation', '57 - Close?', 'component: npy_math']",1
+"['01 - Enhancement', '57 - Close?', '33 - Question']",1
+"['24 - PyPy', '32 - Installation']",1
+"['04 - Documentation', '57 - Close?', '32 - Installation']",1
+"['04 - Documentation', 'component: numpy.ufunc', 'component: __array_function__']",1
+"['57 - Close?', '31 - Third-party binaries', '33 - Question']",1
+"['14 - Release', '24 - PyPy']",1
+"['17 - Task', '39 - free-threading']",1
+"['03 - Maintenance', '39 - free-threading']",1
+"['01 - Enhancement', '14 - Release', 'component: CI']",1
+"['04 - Documentation', 'component: numpy._core', '07 - Deprecation', '50 - Duplicate']",1
+"['57 - Close?', '32 - Installation', '38 - Cross compilation']",1
+"['component: numpy.distutils', '57 - Close?', 'component: build']",1
+"['01 - Enhancement', '15 - Discussion', 'component: numpy.lib']",1
+"['15 - Discussion', 'component: numpy._core', '57 - Close?']",1
+"['00 - Bug', '50 - Duplicate', 'component: numpy.dtype']",1
+"['50 - Duplicate', '31 - Third-party binaries', '33 - Question']",1
+"['04 - Documentation', 'Priority: low']",1
+"['component: numpy.polynomial', '07 - Deprecation', 'sprintable']",1
+"['04 - Documentation', 'component: numpy.lib', '07 - Deprecation', '62 - Python API']",1
+"['01 - Enhancement', 'component: numpy._core', '07 - Deprecation']",1
+"['14 - Release', '04 - Documentation', 'component: documentation']",1
+"['01 - Enhancement', '03 - Maintenance']",1
+"['07 - Deprecation', 'component: numpy.dtype']",1
+"['03 - Maintenance', '63 - C API']",1
+"['17 - Task', '04 - Documentation', 'component: documentation']",1
+"['01 - Enhancement', 'component: NEP']",1
+['60 - Major release'],1
+"['14 - Release', '32 - Installation']",1
+"['17 - Task', 'component: numpy.matrixlib', '07 - Deprecation', 'component: numpy.ufunc']",1
+"['00 - Bug', 'Priority: high', 'component: SIMD']",1
+"['00 - Bug', '15 - Discussion', 'component: numpy.ufunc', 'component: numpy.dtype']",1
+"['00 - Bug', '05 - Testing', 'component: numpy.random']",1
+"['01 - Enhancement', '04 - Documentation', 'Project', 'component: __array_function__']",1
+"['component: numpy.lib', '57 - Close?']",1
+"['component: numpy.fft', 'component: __array_function__', '29 - Intel/Anaconda']",1
+"['01 - Enhancement', '15 - Discussion']",1
+"['01 - Enhancement', 'Project', 'Numpy 2.0 API Changes']",1
+"['57 - Close?', '50 - Duplicate', '33 - Question']",1
+"['component: numpy.ufunc', 'component: numpy.dtype']",1
+"['04 - Documentation', 'component: numpy.matrixlib']",1
+"['00 - Bug', 'Priority: high', 'component: numpy.ufunc']",1
+"['04 - Documentation', 'component: numpy.ma', '57 - Close?']",1
+"['component: numpy.f2py', 'component: build']",1
+"['03 - Maintenance', '07 - Deprecation']",1
+"['04 - Documentation', 'component: numpy.lib', '03 - Maintenance']",1
+"['00 - Bug', '04 - Documentation', 'component: numpy.ufunc']",1
+['63 - C API'],1
+"['15 - Discussion', 'Numpy 2.0 API Changes']",1
+"['00 - Bug', '32 - Installation', 'Meson']",1
+"['00 - Bug', 'triage review']",1
+"['00 - Bug', '06 - Regression', 'component: numpy.distutils', 'component: numpy.f2py']",1
+"['01 - Enhancement', 'component: numpy.linalg', '07 - Deprecation', '62 - Python API']",1
+"['15 - Discussion', 'component: numpy.dtype']",1
+"['15 - Discussion', '60 - Major release', 'component: numpy.dtype']",1
+"['06 - Regression', 'component: numpy._core', 'triaged']",1
+"['57 - Close?', 'component: numpy.einsum', '33 - Question']",1
+"['component: build', '33 - Question']",1
+"['component: numpy.f2py', 'Tracking / planning']",1
+"['57 - Close?', 'component: numpy.ufunc']",1
+"['01 - Enhancement', '57 - Close?', 'triage review']",1
+"['17 - Task', '03 - Maintenance', 'Project']",1
+"['00 - Bug', '36 - Build', 'C++']",1
+"['00 - Bug', 'component: numpy.f2py', '53 - Invalid']",1
+"['14 - Release', '54 - Needs decision']",1
+"['component: numpy.linalg', '38 - Cross compilation']",1
+"['03 - Maintenance', 'component: distribution']",1
+"['component: numpy.lib', '54 - Needs decision', 'triage review']",1
+"['component: numpy.random', '28 - Benchmark']",1
+"['17 - Task', '05 - Testing', 'Static typing']",1
+"['00 - Bug', '06 - Regression', 'component: numpy._core', 'component: numpy.lib']",1
+"['50 - Duplicate', 'component: numpy.datetime64']",1
+"['00 - Bug', 'defunct — difficulty: Intermediate', 'component: numpy.dtype']",1
+"['04 - Documentation', 'component: __array_function__']",1
+"['00 - Bug', 'component: numpy.distutils', 'component: distribution']",1
+"['05 - Testing', 'component: numpy.einsum']",1
+"['00 - Bug', '06 - Regression', 'triaged']",1
+"['04 - Documentation', 'component: documentation', 'component: numpy.ufunc']",1
+"['00 - Bug', 'component: numpy.lib', '56 - Needs Release Note.']",1
+"['00 - Bug', 'component: numpy.random', '57 - Close?']",1
+"['57 - Close?', 'component: build', '32 - Installation']",1
+"['17 - Task', 'component: numpy._core', '07 - Deprecation', 'defunct — difficulty: Intermediate']",1
+"['00 - Bug', '06 - Regression', 'component: numpy.dtype']",1
+"['00 - Bug', '06 - Regression', 'component: numpy.ma', 'component: numpy.ufunc']",1
+"['00 - Bug', '57 - Close?', '29 - Intel/Anaconda']",1
+"['00 - Bug', 'defunct — difficulty: Intermediate']",1
+"['00 - Bug', '15 - Discussion', 'component: numpy._core', '60 - Major release', 'component: numpy.dtype']",1
+"['component: numpy.ma', '57 - Close?']",1
+"['01 - Enhancement', '04 - Documentation', 'component: documentation']",1
+"['00 - Bug', '04 - Documentation', 'component: numpy.f2py']",1
+"['23 - Wish List', '62 - Python API']",1
+"['component: numpy.random', 'component: CI']",1
+"['05 - Testing', 'component: numpy.f2py']",1
+"['component: numpy._core', '54 - Needs decision', 'component: numpy.array_api']",1
+"['62 - Python API', '63 - C API', 'Tracking / planning']",1
+"['Project', 'sprintable - C']",1
+"['triage review', 'Numpy 2.0 API Changes']",1
+"['00 - Bug', '06 - Regression', 'component: numpy.polynomial']",1
+"['00 - Bug', '05 - Testing', 'component: numpy.polynomial', '24 - PyPy']",1
+"['01 - Enhancement', 'component: numpy._core', 'component: numpy.dtype']",1
+"['06 - Regression', 'component: numpy._core', '56 - Needs Release Note.']",1
+"['component: documentation', 'component: numpy.ufunc']",1
+"['00 - Bug', '15 - Discussion', 'component: numpy.ufunc']",1
+"['01 - Enhancement', 'triaged']",1
+"['00 - Bug', '07 - Deprecation', 'defunct — difficulty: Intermediate', 'component: numpy.dtype']",1
+"['component: numpy.f2py', '29 - Intel/Anaconda']",1
+"['component: build', '29 - Intel/Anaconda']",1
+"['00 - Bug', '31 - Third-party binaries']",1
+"['01 - Enhancement', '05 - Testing', '30 - API']",1
+"['14 - Release', 'component: documentation']",1
+"['04 - Documentation', 'component: documentation', 'component: numpy.dtype']",1
+"['00 - Bug', '01 - Enhancement', 'component: numpy._core']",1
+"['01 - Enhancement', 'defunct — difficulty: Intermediate']",1
+"['15 - Discussion', 'component: numpy.random']",1
+"['23 - Wish List', '04 - Documentation']",1
+"['00 - Bug', 'component: numpy.dtype', 'component: numpy.datetime64']",1
+"['01 - Enhancement', '23 - Wish List', '05 - Testing', 'component: numpy._core']",1
+"['component: numpy.ma', '03 - Maintenance', '57 - Close?']",1
+"['00 - Bug', 'sprintable - C', 'component: numpy.strings']",1
+"['04 - Documentation', '50 - Duplicate', 'component: numpy.ufunc']",1
+"['00 - Bug', 'component: documentation', 'component: numpy.dtype']",1
+"['00 - Bug', '15 - Discussion', 'component: documentation']",1
+"['00 - Bug', '15 - Discussion']",1
+"['15 - Discussion', '04 - Documentation', 'component: numpy.f2py', '03 - Maintenance']",1
+"['15 - Discussion', 'component: numpy.f2py', '54 - Needs decision', '03 - Maintenance']",1
+"['05 - Testing', 'component: numpy.distutils', 'component: numpy.f2py', 'Meson']",1
+"['04 - Documentation', 'Numpy 2.0 API Changes']",1
+"['15 - Discussion', '07 - Deprecation', '57 - Close?', 'component: numpy.dtype']",1
+"['01 - Enhancement', '23 - Wish List', '54 - Needs decision']",1
+"['component: numpy._core', 'component: build']",1
+"['00 - Bug', 'component: numpy.random', '54 - Needs decision']",1
+"['component: numpy.random', '29 - Intel/Anaconda']",1
+"['component: numpy.fft', '29 - Intel/Anaconda']",1
+"['00 - Bug', '06 - Regression', 'component: numpy._core', 'component: numpy.dtype']",1
+"['component: numpy.ma', '03 - Maintenance']",1
+"['50 - Duplicate', '29 - Intel/Anaconda']",1
+"['23 - Wish List', '15 - Discussion', '57 - Close?']",1
+"['01 - Enhancement', '15 - Discussion', 'component: numpy.dtype']",1
+"['00 - Bug', '06 - Regression', 'component: numpy.ufunc']",1
+"['00 - Bug', '50 - Duplicate', 'component: numpy.ufunc']",1
+"['57 - Close?', 'Numpy 2.0 API Changes']",1
+"['component: numpy.dtype', '33 - Question']",1
+"['32 - Installation', '39 - free-threading']",1
+"['16 - Development', 'Static typing']",1
+"['00 - Bug', 'Project', 'triaged']",1
+"['component: documentation', '50 - Duplicate']",1
+"['00 - Bug', 'component: build', 'component: SIMD']",1
+"['01 - Enhancement', 'sprintable']",1
+"['05 - Testing', '57 - Close?', 'sprintable']",1
+"['57 - Close?', '33 - Question', '32 - Installation']",1
+"['53 - Invalid', 'Static typing']",1
+"['00 - Bug', 'Static typing', 'component: numpy.array_api']",1
+"['00 - Bug', 'Static typing', 'component: numpy.strings']",1
+"['00 - Bug', '57 - Close?', '39 - free-threading']",1
+"['03 - Maintenance', 'Numpy 2.0 API Changes']",1
+"['17 - Task', 'component: CI']",1
+"['00 - Bug', 'component: numpy.ufunc', '28 - Benchmark']",1
+"['00 - Bug', 'component: numpy._core', 'component: numpy.datetime64']",1
+"['15 - Discussion', '05 - Testing', 'component: Other', '03 - Maintenance']",1
+"['01 - Enhancement', '23 - Wish List', '24 - PyPy']",1
+"['23 - Wish List', '07 - Deprecation']",1
+"['01 - Enhancement', '23 - Wish List', '60 - Major release', '62 - Python API']",1
+"['00 - Bug', '06 - Regression', '26 - Compiler']",1
+"['01 - Enhancement', 'Priority: high', 'component: numpy.lib']",1
+"['04 - Documentation', '03 - Maintenance', 'Numpy 2.0 API Changes']",1
+"['23 - Wish List', '04 - Documentation', 'component: documentation']",1
+"['04 - Documentation', 'component: distribution']",1
+"['component: numpy.random', 'component: benchmarks']",1
+"['23 - Wish List', 'component: benchmarks']",1
+"['01 - Enhancement', '05 - Testing', 'component: numpy.testing', '57 - Close?']",1
+"['04 - Documentation', 'component: documentation', 'component: build']",1
+"['04 - Documentation', '50 - Duplicate']",1
+"['component: numpy.random', '57 - Close?', '53 - Invalid']",1
+['component: NEP'],1
+"['03 - Maintenance', '07 - Deprecation', 'sprintable']",1
+"['component: numpy.testing', '03 - Maintenance']",1
+"['17 - Task', '04 - Documentation', 'component: NEP']",1
+"['01 - Enhancement', '04 - Documentation', 'component: numpy.distutils', 'component: numpy.f2py']",1
+"['00 - Bug', 'component: build', '26 - Compiler']",1
+"['01 - Enhancement', 'component: numpy.polynomial']",1
+"['15 - Discussion', '54 - Needs decision']",1
+"['00 - Bug', 'component: build', '24 - PyPy']",1
+"['05 - Testing', 'component: numpy.testing', 'component: numpy.matrixlib']",1
+"['06 - Regression', 'component: numpy._core', '29 - Intel/Anaconda']",1
+"['57 - Close?', 'component: build', '53 - Invalid']",1
+"['15 - Discussion', '53 - Invalid']",1
+"['15 - Discussion', '57 - Close?', '53 - Invalid']",1
+"['00 - Bug', '26 - Compiler', '29 - Intel/Anaconda']",1
+"['06 - Regression', '50 - Duplicate']",1
+"['01 - Enhancement', '15 - Discussion', 'component: benchmarks', 'triage review']",1
+"['05 - Testing', '29 - Intel/Anaconda']",1
+"['01 - Enhancement', '03 - Maintenance', 'component: build']",1
+"['component: numpy._core', '03 - Maintenance', '07 - Deprecation']",1
+"['00 - Bug', '06 - Regression', 'component: numpy.linalg']",1
+"['05 - Testing', '57 - Close?']",1
+"['01 - Enhancement', 'component: numpy.datetime64']",1
+"['00 - Bug', '04 - Documentation', 'component: build']",1
+"['Embedded', '32 - Installation']",1
+"['00 - Bug', '04 - Documentation', 'component: numpy.dtype']",1
+"['15 - Discussion', '04 - Documentation', 'component: numpy.dtype']",1
+"['01 - Enhancement', '04 - Documentation', 'component: numpy.lib']",1
+"['04 - Documentation', 'component: numpy.dtype']",1
+['08 - Backport'],1
+"['07 - Deprecation', '62 - Python API']",1
+"['component: benchmarks', 'component: numpy.ufunc']",1
+"['00 - Bug', '03 - Maintenance', 'Proposal', 'component: numpy.ufunc']",1
+"['17 - Task', 'defunct — difficulty: Intermediate']",1
+"['57 - Close?', '53 - Invalid', 'component: distribution']",1
+"['01 - Enhancement', '50 - Duplicate', 'component: benchmarks']",1
+"['57 - Close?', '53 - Invalid', 'component: numpy.datetime64']",1
+"['06 - Regression', 'component: numpy.matrixlib', '57 - Close?']",1
+"['01 - Enhancement', 'component: numpy._core', 'Proposal']",1
+"['01 - Enhancement', 'Proposal']",1
+"['01 - Enhancement', 'component: numpy._core', 'component: benchmarks']",1
+"['00 - Bug', 'component: numpy.linalg', '50 - Duplicate']",1
+"['15 - Discussion', '57 - Close?', 'component: numpy.dtype']",1
+"['23 - Wish List', 'component: numpy.linalg', '50 - Duplicate']",1
+"['06 - Regression', 'component: numpy.polynomial', 'component: numpy.testing']",1
+"['00 - Bug', '01 - Enhancement', 'Priority: high', '62 - Python API', 'triage review']",1
+['40 - array API standard'],1
+"['00 - Bug', 'component: numpy.f2py', 'Meson']",1
+"['00 - Bug', 'component: numpy.ufunc', '39 - free-threading']",1
+"['00 - Bug', '01 - Enhancement', 'Project']",1
+"['component: benchmarks', '28 - Benchmark']",1
+"['00 - Bug', '06 - Regression', 'component: numpy._core', 'sprintable']",1
+"['00 - Bug', 'component: numpy.f2py', '50 - Duplicate']",1
+"['01 - Enhancement', '16 - Development', 'component: CI']",1
+"['00 - Bug', '57 - Close?', '31 - Third-party binaries']",1
+"['01 - Enhancement', '17 - Task']",1
+"['00 - Bug', 'triage review', 'Static typing']",1
+"['component: numpy.lib', 'component: numpy.polynomial', '07 - Deprecation']",1
+"['15 - Discussion', '54 - Needs decision', 'Static typing']",1
+"['04 - Documentation', 'component: documentation', 'component: numpy.datetime64']",1
+"['03 - Maintenance', 'component: build', '50 - Duplicate']",1
+"['00 - Bug', 'component: numpy._core', 'triaged']",1
+"['00 - Bug', '01 - Enhancement', 'component: build']",1
+"['15 - Discussion', '54 - Needs decision', 'component: numpy.datetime64']",1
+"['component: numpy._core', 'Proposal', 'defunct — difficulty: Intermediate']",1
+"['06 - Regression', 'component: numpy.distutils']",1
+"['01 - Enhancement', 'component: numpy.random', '57 - Close?']",1
+"['50 - Duplicate', '53 - Invalid']",1
+"['23 - Wish List', 'component: numpy.dtype']",1
+"['00 - Bug', 'component: numpy._core', 'Project']",1
+"['01 - Enhancement', 'component: numpy._core', 'Project']",1
+"['04 - Documentation', '03 - Maintenance', '57 - Close?']",1
+"['05 - Testing', 'component: numpy.lib', '03 - Maintenance', 'defunct — difficulty: Intermediate']",1
+"['15 - Discussion', '06 - Regression', 'component: numpy._core', '07 - Deprecation']",1
+"['00 - Bug', '57 - Close?', '53 - Invalid']",1
+"['00 - Bug', '23 - Wish List', '50 - Duplicate']",1
+"['00 - Bug', '54 - Needs decision', 'component: numpy.dtype']",1
+"['05 - Testing', 'component: numpy.random']",1
+"['component: numpy.fft', '53 - Invalid']",1
+"['17 - Task', '05 - Testing', 'defunct — difficulty: Intermediate']",1
+"['00 - Bug', '05 - Testing', 'component: numpy.testing']",1
+"['17 - Task', 'component: numpy._core', '24 - PyPy']",1
+"['00 - Bug', 'component: numpy._core', 'component: npy_math']",1
+"['component: numpy.f2py', '33 - Question']",1
+"['05 - Testing', 'component: numpy._core']",1
+"['component: numpy.lib', '07 - Deprecation']",1
+"['component: numpy.ma', '53 - Invalid']",1
+"['15 - Discussion', '07 - Deprecation']",1
+"['component: numpy.ma', '07 - Deprecation']",1
+"['01 - Enhancement', 'component: numpy.distutils', 'Proposal']",1
+"['17 - Task', '15 - Discussion']",1
+"['15 - Discussion', 'component: build']",1
+"['Priority: high', 'component: Other']",1
+"['01 - Enhancement', '57 - Close?', 'component: build']",1
+"['00 - Bug', 'component: numpy.fft', '57 - Close?']",1
+"['17 - Task', '07 - Deprecation', 'defunct — difficulty: Intermediate']",1
+"['17 - Task', 'component: distribution']",1
+"['04 - Documentation', 'component: SIMD']",1
+"['54 - Needs decision', 'Numpy 2.0 API Changes']",1
+"['32 - Installation', '36 - Build']",1
+"['03 - Maintenance', 'component: npy_math']",1
+"['component: SIMD', '36 - Build']",1
+"['01 - Enhancement', '33 - Question']",1
+"['00 - Bug', 'component: numpy._core', 'component: numpy.lib']",1
+"['00 - Bug', 'component: numpy.lib', 'component: numpy.ma']",1
+"['component: Other', '03 - Maintenance']",1
+"['00 - Bug', 'component: numpy.distutils', 'component: build', 'component: distribution']",1
+"['06 - Regression', 'component: numpy.linalg']",1
+"['01 - Enhancement', 'component: numpy.random', 'component: benchmarks']",1
+"['16 - Development', '04 - Documentation']",1
+"['01 - Enhancement', '23 - Wish List', 'Static typing']",1
+"['component: numpy.f2py', 'component: CI']",1
+"['24 - PyPy', '36 - Build']",1
+"['00 - Bug', 'component: build', 'C++']",1
+"['04 - Documentation', '26 - Compiler', 'C++']",1
+"['00 - Bug', '01 - Enhancement', 'component: numpy.lib', '28 - Benchmark']",1
+"['16 - Development', 'component: CI']",1
+"['17 - Task', 'component: numpy._core', '07 - Deprecation']",1
+"['00 - Bug', 'Priority: low']",1
+"['00 - Bug', 'component: numpy.lib', 'sprintable']",1
+"['15 - Discussion', '50 - Duplicate', 'Static typing']",1
+"['14 - Release', '15 - Discussion']",1
+"['00 - Bug', 'component: documentation', 'triaged']",1
+"['00 - Bug', 'component: numpy.random', 'component: build']",1
+"['05 - Testing', 'Proposal']",1
+"['01 - Enhancement', '23 - Wish List', 'component: numpy.random']",1
+"['00 - Bug', '05 - Testing', 'component: numpy.random', 'component: numpy.ma']",1
+"['00 - Bug', 'component: benchmarks']",1
+"['component: numpy._core', '51 - In progress']",1
+"['Patch', 'component: build']",1
+"['00 - Bug', 'component: documentation', 'component: build']",1
+"['component: documentation', 'component: numpy.ma']",1
+"['component: numpy._core', 'triage review']",1
+"['17 - Task', 'component: numpy.distutils', 'component: build', 'component: distribution']",1
+"['17 - Task', '05 - Testing']",1
+"['Proposal', 'component: benchmarks']",1
+"['00 - Bug', '01 - Enhancement', 'component: numpy.ufunc']",1
+"['17 - Task', 'component: numpy._core', 'Proposal']",1
+"['00 - Bug', '57 - Close?', 'component: benchmarks']",1
+"['17 - Task', '05 - Testing', 'component: Other']",1
+"['06 - Regression', 'component: numpy._core', '54 - Needs decision']",1
+"['01 - Enhancement', 'defunct — difficulty: Intermediate', 'component: numpy.ufunc']",1
+"['01 - Enhancement', 'component: numpy.lib', 'triaged', 'sprintable']",1
+"['04 - Documentation', 'component: documentation', 'Priority: low']",1
+"['00 - Bug', 'component: build', '38 - Cross compilation']",1
+"['17 - Task', 'Project']",1
+"['01 - Enhancement', 'component: numpy.matrixlib']",1
+"['00 - Bug', '57 - Close?', 'component: numpy.dtype']",1
+"['01 - Enhancement', '17 - Task', '54 - Needs decision']",1
+"['01 - Enhancement', '17 - Task', '50 - Duplicate']",1
+"['component: numpy.ufunc', '28 - Benchmark']",1
+"['00 - Bug', 'component: numpy.f2py', 'Patch']",1
+"['07 - Deprecation', '57 - Close?']",1
+"['06 - Regression', 'Priority: high', 'component: numpy._core', '57 - Close?']",1
+"['00 - Bug', '57 - Close?', 'Numpy 2.0 API Changes']",1
+"['17 - Task', 'component: numpy.fft']",1
+"['01 - Enhancement', 'component: numpy.distutils', '57 - Close?']",1
+"['Tracking / planning', '39 - free-threading']",1
+"['component: numpy.f2py', '32 - Installation', 'Meson']",1
+"['03 - Maintenance', '57 - Close?']",1
+"['00 - Bug', 'component: Other', 'component: build']",1
+"['component: numpy.distutils', 'component: numpy.f2py', '57 - Close?']",1
+"['component: numpy.distutils', '53 - Invalid']",1
+"['01 - Enhancement', '23 - Wish List', 'component: numpy.lib']",1
+"['01 - Enhancement', 'component: benchmarks']",1
+"['00 - Bug', 'component: numpy.ufunc', 'component: numpy.dtype']",1
+"['00 - Bug', 'Priority: high', 'component: build']",1
+"['00 - Bug', '06 - Regression', 'component: numpy.ma']",1
+"['00 - Bug', 'component: documentation', 'component: numpy.f2py']",1
+"['01 - Enhancement', 'Priority: high', 'component: Other']",1
+['component: numpy.strings'],1
+"['component: numpy._core', 'Numpy 2.0 API Changes']",1
+"['17 - Task', 'component: documentation', 'component: NEP', 'sprintable']",1
+['Tracking / planning'],1
+"['component: CI', '32 - Installation']",1
+"['component: numpy._core', '63 - C API']",1
+"['01 - Enhancement', 'component: Other', 'component: benchmarks']",1
+"['00 - Bug', 'component: numpy.lib', 'Patch']",1
+"['00 - Bug', 'Priority: high', 'component: numpy._core', '50 - Duplicate']",1
+"['01 - Enhancement', 'component: numpy._core', 'Patch']",1
+"['01 - Enhancement', 'component: numpy.distutils', 'triaged']",1
+"['23 - Wish List', 'component: numpy.linalg']",1
+"['01 - Enhancement', 'component: numpy.polynomial', '54 - Needs decision']",1
+"['00 - Bug', 'component: numpy._core', '29 - Intel/Anaconda']",1
+"['17 - Task', 'component: numpy.distutils', 'component: documentation']",1
+"['54 - Needs decision', '55 - Needs work']",1
+"['17 - Task', 'component: build']",1
+"['01 - Enhancement', 'component: numpy.distutils', 'component: numpy.f2py']",1
+"['05 - Testing', '57 - Close?', 'component: numpy.ufunc', 'component: numpy.dtype']",1
+"['01 - Enhancement', '54 - Needs decision', 'Proposal']",1
+"['17 - Task', 'component: numpy.linalg', 'Proposal', 'triaged']",1
+"['17 - Task', 'Priority: high', 'component: numpy.distutils']",1
+"['00 - Bug', 'component: numpy._core', 'sprintable']",1
+"['17 - Task', 'component: numpy.lib']",1
+"['00 - Bug', 'component: numpy.distutils', 'Patch']",1
+"['00 - Bug', '04 - Documentation', 'component: numpy._core', '54 - Needs decision']",1
+"['00 - Bug', '16 - Development', 'component: numpy._core']",1
+"['00 - Bug', 'component: numpy.lib', 'component: documentation']",1
+"['00 - Bug', '09 - Backport-Candidate']",1
+"['01 - Enhancement', 'component: numpy._core', 'Embedded']",1
+"['15 - Discussion', 'component: Other']",1
